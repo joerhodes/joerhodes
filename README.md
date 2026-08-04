@@ -19,9 +19,9 @@ I also keep an occasional eye on supply chain security across a few language eco
 
 ## Skills
 
-**Languages & Frameworks:** PHP, Laravel, Python, Perl, Bash, C, Java, JavaScript
-**Infrastructure:** Linux administration, Docker, AWS, DNS/DHCP, IPTables/UFW firewalls, Samba/NFS
-**Databases:** PostgreSQL (incl. Foreign Data Wrappers), SQLite
+**Languages & Frameworks:** PHP, Laravel, Python, Perl, Bash, C, Java, JavaScript<br>
+**Infrastructure:** Linux administration, Docker, AWS, DNS/DHCP, IPTables/UFW firewalls, Samba/NFS<br>
+**Databases:** PostgreSQL (incl. Foreign Data Wrappers), SQLite<br>
 **DevOps:** CI/CD (Bitbucket Pipelines, Laravel Envoyer), JumpCloud IAM, Git
 
 ---
