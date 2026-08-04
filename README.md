@@ -8,7 +8,7 @@ By day I develop and maintain Laravel/PHP applications and lead DevOps and infra
 
 **Professionally** — modernizing legacy applications, cloud migration and cost management, CI/CD pipelines, and segmented network design. Recently focused on integrating AI-assisted development tooling (MCP-served context docs, agent workflows) into a live development team.
 
-**Personally** — a self-hosted infrastructure lab where I explore concepts and configurations that often end up informing how I think about the professional side: network segmentation, monitoring, and automation, but at a scale where I can experiment freely.
+**Personally** — a self-hosted infrastructure lab where I explore concepts and configurations that often end up informing how I think about the professional side: network segmentation, monitoring, and automation, but at a scale where I can experiment freely.  This currently includes:
 
 - A home lab for infrastructure and network experiments, including a self-hosted Monero mining fleet coordinated from a Raspberry Pi.
 - A segmented home network built on UniFi gear.
