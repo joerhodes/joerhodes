@@ -1,6 +1,6 @@
 # Joe Rhodes
 
-Software developer and infrastructure engineer based in Arlington, TX — 30+ years building and running systems, from application code down to the network layer.
+Software developer and infrastructure engineer based in the Dallas-Fort Worth area — 30+ years building and running systems, from application code down to the network layer.
 
 By day I develop and maintain Laravel/PHP applications and lead DevOps and infrastructure efforts for a mid-size company: AWS migrations, CI/CD adoption, identity management, and network architecture. By night I run a self-hosted, local-first infrastructure lab at home — the same instincts applied at a personal scale.
 
@@ -8,27 +8,21 @@ By day I develop and maintain Laravel/PHP applications and lead DevOps and infra
 
 **Professionally** — modernizing legacy applications, cloud migration and cost management, CI/CD pipelines, and segmented network design. Recently focused on integrating AI-assisted development tooling (MCP-served context docs, agent workflows) into a live development team.
 
-**Personally** — a self-hosted infrastructure stack that mirrors what I do at work, minus the constraints:
+**Personally** — a self-hosted infrastructure lab where I explore concepts and configurations that often end up informing how I think about the professional side: network segmentation, monitoring, and automation, but at a scale where I can experiment freely.
 
-- **[xmr-income-report](https://forgejo.example/joe/xmr-income-report)** — a Python CLI tool for generating Monero mining income reports, backed by SQLite.
-- A 7-worker Monero mining fleet (p2pool) coordinated from a Raspberry Pi 5.
-- A UniFi-based home network, segmented by VLAN.
-- Home Assistant for thermal and power monitoring around the property.
-- A Bambu Lab P1S doing double duty for printed infrastructure parts.
+- A home lab for infrastructure and network experiments, including a self-hosted Monero mining fleet coordinated from a Raspberry Pi.
+- A segmented home network built on UniFi gear.
+- Home Assistant for environmental and power monitoring around the property.
+- A 3D printer that pulls double duty producing parts for the lab itself.
 
-I'm also deep into supply chain security across a few language ecosystems — Python, Rust, and Swift — mostly out of the same instinct that drives the self-hosting: understanding exactly what's running and why I trust it.
+I also keep an occasional eye on supply chain security across a few language ecosystems — Python, Rust, Swift, and PHP — checking in on the state of tooling and trust models.
 
 ## Skills
 
-**Languages & Frameworks:** PHP, Laravel, Python, Perl, Bash, C, Java, JavaScript (backend-focused)
-**Infrastructure:** Linux administration, Docker, AWS, DNS/DHCP, Shorewall firewalls, Samba/NFS
+**Languages & Frameworks:** PHP, Laravel, Python, Perl, Bash, C, Java, JavaScript
+**Infrastructure:** Linux administration, Docker, AWS, DNS/DHCP, IPTables/UFW firewalls, Samba/NFS
 **Databases:** PostgreSQL (incl. Foreign Data Wrappers), SQLite
 **DevOps:** CI/CD (Bitbucket Pipelines, Laravel Envoyer), JumpCloud IAM, Git
-
-## Elsewhere
-
-- Email: rhodesjl@gmail.com
-- Location: Arlington, TX
 
 ---
 *This profile is a work in progress — thanks for stopping by.*
