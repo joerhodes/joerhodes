@@ -15,7 +15,7 @@ By day I develop and maintain Laravel/PHP applications and lead DevOps and infra
 - Home Assistant for environmental and power monitoring around the property.
 - A 3D printer that pulls double duty producing parts for the lab itself.
 
-I also keep an occasional eye on supply chain security across a few language ecosystems — Python, Rust, Swift, and PHP — checking in on the state of tooling and trust models.
+I also keep an occasional eye on supply chain security across a few language ecosystems — Python, Rust, Swift, and PHP — checking in on the state of tooling and trust models.  I've also been probing AI coding assistants for the design principles they don't apply automatically — Separation of Concerns, Single Responsibility, and the like.
 
 ## Skills
 
