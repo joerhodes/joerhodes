@@ -10,7 +10,7 @@ By day I develop and maintain Laravel/PHP applications and lead DevOps and infra
 
 **Personally** — a self-hosted infrastructure lab where I explore concepts and configurations that often end up informing how I think about the professional side: network segmentation, monitoring, and automation, but at a scale where I can experiment freely.  This currently includes:
 
-- A home lab for infrastructure and network experiments, including a self-hosted Monero mining fleet coordinated from a Raspberry Pi.
+- A home lab for infrastructure and network experiments.
 - A segmented home network built on UniFi gear.
 - Home Assistant for environmental and power monitoring around the property.
 - A 3D printer that pulls double duty producing parts for the lab itself.
