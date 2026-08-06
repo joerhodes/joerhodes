@@ -1,6 +1,6 @@
 # Joe Rhodes
 
-Senior software developer and infrastructure engineer based in the Dallas-Fort Worth area — 30+ years design, building and running systems, from application code down to the network layer.
+Senior software developer and infrastructure engineer based in the Dallas-Fort Worth area — 30+ years designing, building and running systems, from application code down to the network layer.
 
 By day I develop and maintain Laravel/PHP applications and lead DevOps and infrastructure efforts for a mid-size company: AWS migrations, CI/CD adoption, identity management, and network architecture. By night I run a self-hosted, local-first infrastructure lab at home — the same instincts applied at a personal scale.
 
