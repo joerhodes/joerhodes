@@ -25,4 +25,4 @@ I also keep an occasional eye on supply chain security across a few language eco
 **DevOps:** CI/CD (Bitbucket Pipelines, Laravel Envoyer), JumpCloud IAM, Git
 
 ---
-*This profile is a work in progress — thanks for stopping by.*
+*This profile is a work in progress —  - thanks for stopping by.*
