@@ -19,9 +19,9 @@ I also keep an occasional eye on supply chain security across a few language eco
 
 ## How I Work
 
-**Shared code, scoped variables:** Write defensively for anything that gets sourced alongside other modules — scoped variables, explicit error propagation, no unstated assumptions about caller context.<br>
-**Tests protect contracts, not internals:** Design coverage around the guarantee a function makes to its callers, not its implementation — a suite that survives refactors instead of breaking on them.<br>
-**Documentation reflects reality:** State actual project status, including known gaps, rather than overstating completeness — an honest "here's what's covered" beats a green checkmark that isn't quite true.<br>
+**Shared code, scoped variables:** Write defensively for anything that gets sourced alongside other modules — scoped variables, explicit error propagation, no unstated assumptions about caller context.<br/><br/>
+**Tests protect contracts, not internals:** Design coverage around the guarantee a function makes to its callers, not its implementation — a suite that survives refactors instead of breaking on them.<br/><br/>
+**Documentation reflects reality:** State actual project status, including known gaps, rather than overstating completeness — an honest "here's what's covered" beats a green checkmark that isn't quite true.<br/><br/>
 **Traceable dependencies across files:** When related logic has to stay in sync across files, leave a discoverable trail — tagged comments, grep-able markers — rather than trusting memory to catch drift later.
 
 ## Skills
