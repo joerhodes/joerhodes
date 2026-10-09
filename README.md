@@ -31,5 +31,9 @@ I also keep an occasional eye on supply chain security across a few language eco
 - **Databases:** PostgreSQL (incl. Foreign Data Wrappers), SQLite<br>
 - **DevOps:** CI/CD (Bitbucket Pipelines, Laravel Envoyer), JumpCloud IAM, Git
 
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/joerhodes-dev)
+
 ---
 *This profile is a work in progress — thanks for stopping by.*
