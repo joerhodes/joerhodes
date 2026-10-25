@@ -27,7 +27,7 @@ By day I develop and maintain Laravel/PHP applications and lead DevOps and infra
 *As of October 2026*
 
 - **Spec-driven development:** whether specs and a project constitution make AI-written code reviewable, both in my own work and as a process for a team moving to agentic coding.
-- - **Agent workflows built on git worktrees:** exploring Bloom, which runs coding agents in their own worktrees and hands results back as pull requests. Working through its workflow pushed me to really learn worktrees and the `gh` CLI. Running several agents in parallel is next, ideally with tooling that also works with self-hosted Forgejo, where my own work lives.
+- **Agent workflows built on git worktrees:** exploring Bloom, which runs coding agents in their own worktrees and hands results back as pull requests. Working through its workflow pushed me to really learn worktrees and the `gh` CLI. Running several agents in parallel is next, ideally with tooling that also works with self-hosted Forgejo, where my own work lives.
 - **Design principles in AI output:** probing coding assistants for the principles they don't apply on their own, such as Separation of Concerns and Single Responsibility.
 - **Supply chain security:** an occasional check-in on tooling and trust models across Python, Rust, Swift, and PHP.
 
