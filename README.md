@@ -15,7 +15,21 @@ By day I develop and maintain Laravel/PHP applications and lead DevOps and infra
 - Home Assistant for environmental and power monitoring around the property.
 - A 3D printer that pulls double duty producing parts for the lab itself.
 
-I also keep an occasional eye on supply chain security across a few language ecosystems — Python, Rust, Swift, and PHP — checking in on the state of tooling and trust models.  I've also been probing AI coding assistants for the design principles they don't apply automatically — Separation of Concerns, Single Responsibility, and the like.
+## Projects
+
+- **[larakit](https://github.com/joerhodes/larakit):** a Bash wrapper around Laradock I built at work so a team new to Docker could run consistent local environments. Published with my employer's permission, with BATS tests and real development history.
+- **[monero-income](https://github.com/joerhodes/monero-income):** a Python CLI rebuilt from scratch with spec-driven development (GitHub Spec Kit + Claude Code). The constitution, specs, plans, and session logs are all in the repo.
+- **[mini-fleet-maestro](https://github.com/joerhodes/mini-fleet-maestro):** agentless Ansible provisioning for a fleet of headless Mac Minis: power settings, scoped sudo, and payloads pushed from a controller rather than pulled on each node - in progress.
+- **[devmode](https://github.com/joerhodes/devmode):** a Bash script that switches a Mac between two local dev stacks (larakit's Docker containers and Laravel Herd) as one unit, coordinating Docker, dnsmasq, and supporting services through per-mode config files.
+
+## Currently exploring
+
+*As of October 2026*
+
+- **Spec-driven development:** whether specs and a project constitution make AI-written code reviewable, both in my own work and as a process for a team moving to agentic coding.
+- **Parallel agent workflows:** running several coding agents in separate git worktrees. I've evaluated tools like Bloom, Claude Squad, and workmux, with a preference for ones that don't require GitHub, since my own work lives on self-hosted Forgejo.
+- **Design principles in AI output:** probing coding assistants for the principles they don't apply on their own, such as Separation of Concerns and Single Responsibility.
+- **Supply chain security:** an occasional check-in on tooling and trust models across Python, Rust, Swift, and PHP.
 
 ## How I Work
 
